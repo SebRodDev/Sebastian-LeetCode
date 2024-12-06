@@ -1,1 +1,1 @@
-# Sebastian-Leetcode
+# Sebastian-LeetCode
